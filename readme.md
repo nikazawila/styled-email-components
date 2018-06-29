@@ -27,7 +27,7 @@ essential features for building email components.
 `styled-components` is a universal styling solution with great developer
 experience and low learning curve. Unfortunately there's no native support for
 inline styling which is essential for building emails. This module adds all
-nessecary features to build mail-first components.
+necessary features to build mail-first components.
 
 ## Installation
 
